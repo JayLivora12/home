@@ -1,0 +1,4 @@
+streamlit
+numpy
+sciKit-learn=1.5.2
+pandas
